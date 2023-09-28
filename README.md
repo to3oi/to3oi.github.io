@@ -1,23 +1,23 @@
 # Portfolio
 
 ### Profile
+
 イトウ トモヤ<br>
 伊藤 朋也<br>
-2025年度卒業予定<br>
+出身<br>
+埼玉県<br>
+生年月日<br>
+2002年5月17日<br>
+学校<br>
+        
+東京デザインテクノロジーセンター専門学校<br>
+スーパーIT科 スーパーゲームクリエイター専攻<br>
+2025年3月卒業<br>
 
-<div class="profile">
-    <span class="profile-name">イトウ トモヤ</span>
-    <span class="profile-name">伊藤 朋也</span>
-    <dl>
-        <dt>出身</dt>
-        <dd>埼玉県</dd>
-        <dt>生年月日</dt>
-        <dd>2002年5月17日</dd>
-        <dt>学校</dt>
-        <dd>
-            東京デザインテクノロジーセンター専門学校<br>
-            スーパーIT科 スーパーゲームクリエイター専攻<br>
-            <span class="supper right">2025年3月卒業</span>
-        </dd>
-    </dl>
-</div>
+### Works
+| 制作年度 | 制作期間               | タイトル名         | プラットフォーム          | 詳細 | GitHub                                                       | 
+| -------- | ---------------------- | ------------------ | ------------------------- | ---- | ------------------------------------------------------------ | 
+| 1年      | 2021/10/8 ~ 2022/2/9   | ギミックフィールド |  Nintendo Switch          |      | https://github.com/letconst/gimmick-field-public             | 
+| 2年      | 2022/4/22 ~ 2022/9/24  | 天上宮殿の騎士     |  Nintendo Switch          |      | https://github.com/letconst/knight-of-heavenly-palace-public | 
+| 2年      | 2022/10/05 ~ 2023/2/11 | HoloDive           | Hololens 2                |      | https://github.com/to3oi/HoloDive-Hololens-Repository-Public | 
+| 3年      | 2023/04/21 ~           | EnigMouse          | Windows & Azure Kinect DK |      | https://github.com/to3oi/EnigMouse_Public                    | 
