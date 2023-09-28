@@ -30,7 +30,7 @@ Hololens 2の実機で見えるコードすべて
 手の甲を2回タップすることで時間軸を移動する事ができます。
 この処理をするためにMRTKで取得できる指と手の甲の位置に動的にコライダーを配置し、タップの検出ができるようにしました。
 
-![](../src/HoloDive/HoloDive_FingerTrigger.png)
+![](src/HoloDive/HoloDive_FingerTrigger.png)
 
 
 ### 時間軸移動時のエフェクト
