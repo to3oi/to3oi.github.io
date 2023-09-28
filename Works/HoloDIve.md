@@ -36,6 +36,6 @@ Hololens 2の実機で見えるコードすべて
 ### 時間軸移動時のエフェクト
 以下の動画のように時間軸を移動したときに、手の座標を中心に波紋のようなエフェクトを実装し、時間軸を移動したことをプレイヤーがわかるようにしました。
 
-https://youtu.be/smT1GH2vxLM?si=CPyHPoa-XQu3DZ7i&t=32
+[https://youtu.be/smT1GH2vxLM?si=CPyHPoa-XQu3DZ7i&t=32](https://youtu.be/smT1GH2vxLM?si=CPyHPoa-XQu3DZ7i&t=32)
 
 これはShaderGraphで実装し、Hololens 2の実機で処理落ちが少なくなるよう軽量化をしました。
