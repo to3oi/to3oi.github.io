@@ -19,13 +19,12 @@
 専門学校では少人数のチームで主にメインプログラマーとしてコードを書いていました。<br>
 
 ### Works
-| 制作年度 | 制作期間               | タイトル名         | プラットフォーム          | 詳細 | GitHub                                                       | 
-| :--- | :--- | :--- | :--- | :--- | :--- | 
-| 1年      | 2021/10/8 ~ 2022/2/9   | ギミックフィールド |  Nintendo Switch          |      | [https://github.com/letconst/gimmick-field-public](https://github.com/letconst/gimmick-field-public)             | 
-| 2年      | 2022/4/22 ~ 2022/9/24  | 天上宮殿の騎士     |  Nintendo Switch          |      | [https://github.com/letconst/knight-of-heavenly-palace-public](https://github.com/letconst/knight-of-heavenly-palace-public) | 
-| 2年      | 2022/10/05 ~ 2023/2/11 | HoloDive           | Hololens 2                |      | [https://github.com/to3oi/HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public) | 
-| 3年      | 2023/04/21 ~           | EnigMouse          | Windows & Azure Kinect DK |      | [https://github.com/to3oi/EnigMouse_Public](https://github.com/to3oi/EnigMouse_Public)                    | 
-
+| 制作年度 | 制作期間 | タイトル名 | プラットフォーム | 詳細 | GitHub |
+| :- | :- | :- | :- | :- | :- |
+| 1年 | 2021/10/8 ~ 2022/2/9 | ギミックフィールド | Nintendo Switch |  | [https://github.com/letconst/gimmick-field-public](https://github.com/letconst/gimmick-field-public) |
+| 2年 | 2022/4/22 ~ 2022/9/24 | 天上宮殿の騎士 | Nintendo Switch |  | [https://github.com/letconst/knight-of-heavenly-palace-public](https://github.com/letconst/knight-of-heavenly-palace-public) |
+| 2年 | 2022/10/05 ~ 2023/2/11 | HoloDive | Hololens 2 |  | [https://github.com/to3oi/HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public) |
+| 3年 | 2023/04/21 ~ | EnigMouse | Windows & Azure Kinect DK |  | [https://github.com/to3oi/EnigMouse_Public](https://github.com/to3oi/EnigMouse_Public) |
 
 ### Account 
 [GitHub](https://github.com/to3oi)
