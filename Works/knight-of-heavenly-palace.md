@@ -1,3 +1,6 @@
 # 天上宮殿の騎士
 
-https://www.youtube.com/watch?v=0xTNXxZfsR0&ab_channel=to3oi
+### 実機プレイ映像
+[https://www.youtube.com/watch?v=0xTNXxZfsR0&ab_channel=to3oi](https://www.youtube.com/watch?v=0xTNXxZfsR0&ab_channel=to3oi)
+
+以下修正中
