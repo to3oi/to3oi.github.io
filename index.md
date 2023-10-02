@@ -16,7 +16,6 @@
 専門学校では少人数のチームで主にメインプログラマーとしてコードを書いていました。
 
 # Works
-{::options parse_block_html="true" /}
 <div class="scroll">
 | 制作年度 | 制作期間 | タイトル名 | プラットフォーム | GitHub |
 | :- | :- | :- | :- | :- |
@@ -24,7 +23,6 @@
 | 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士](Works/knight-of-heavenly-palace) | Nintendo Switch | [https://github.com/letconst/knight-of-heavenly-palace-public](https://github.com/letconst/knight-of-heavenly-palace-public) |
 | 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive](Works/HoloDive) | Hololens 2 | [https://github.com/to3oi/HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public) |
 | 3年 | 2023/04/21 ~ | [EnigMouse](Works/EnigMouse) | Windows & Azure Kinect DK | [https://github.com/to3oi/EnigMouse_Public](https://github.com/to3oi/EnigMouse_Public) |
-{:.afi_table}
 </div>
 
 ### Account 
