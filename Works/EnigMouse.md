@@ -29,4 +29,4 @@
 - 物体検出
 
 その他
-- プロジェクターとAzure Kinect Dkと机の距離の調整
+- プロジェクターとAzure Kinect DKと机の距離の調整
