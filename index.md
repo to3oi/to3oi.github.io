@@ -1,5 +1,3 @@
-# Portfolio
-
 ### Profile
 
 イトウ トモヤ\\
