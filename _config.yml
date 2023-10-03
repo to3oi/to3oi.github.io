@@ -8,9 +8,9 @@ encoding: UTF-8
 title: "Portfolio"
 description: > # this means to ignore newlines until "email:"
 
-email: a-mail@mail.mail
+email: tomoya.ito.0517&copy;gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "https://to3oi.github.io/"
 float_logo: true # true, false (default)
 
 # blog cover
