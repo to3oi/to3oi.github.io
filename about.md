@@ -31,10 +31,10 @@ permalink: /about/
 
 | 制作年度 | 制作期間 | タイトル名 | プラットフォーム |
 | :- | :- | :- | :- |
-| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド](works/gimmick-field) | Nintendo Switch |
-| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士](works/knight-of-heavenly-palace) | Nintendo Switch |
-| 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive](works/HoloDive) | Hololens 2 |
-| 3年 | 2023/04/21 ~ | [EnigMouse](works/EnigMouse) | Windows & Azure Kinect DK |
+| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド]({{ post.url }}/works/gimmick-field) | Nintendo Switch |
+| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士]({{ post.url }}/works/knight-of-heavenly-palace) | Nintendo Switch |
+| 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive]({{ post.url }}/works/HoloDive) | Hololens 2 |
+| 3年 | 2023/04/21 ~ | [EnigMouse]({{ post.url }}/works/EnigMouse) | Windows & Azure Kinect DK |
 
 ### Account 
 [GitHub](https://github.com/to3oi)
