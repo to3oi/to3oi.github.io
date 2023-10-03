@@ -1,17 +1,45 @@
 ---
 layout: page
-title: About
+title: Profile
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+<!---
+| 制作年度 | 制作期間 | タイトル名 | プラットフォーム | GitHub |
+| :- | :- | :- | :- | :- |
+| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド](works/gimmick-field) | Nintendo Switch | [https://github.com/letconst/gimmick-field-public](https://github.com/letconst/gimmick-field-public) |
+| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士](works/knight-of-heavenly-palace) | Nintendo Switch | [https://github.com/letconst/knight-of-heavenly-palace-public](https://github.com/letconst/knight-of-heavenly-palace-public) |
+| 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive](works/HoloDive) | Hololens 2 | [https://github.com/to3oi/HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public) |
+| 3年 | 2023/04/21 ~ | [EnigMouse](works/EnigMouse) | Windows & Azure Kinect DK | [https://github.com/to3oi/EnigMouse_Public](https://github.com/to3oi/EnigMouse_Public) |
+-->
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Profile
+![](https://avatars.githubusercontent.com/u/41101653)\
+イトウ トモヤ\
+伊藤 朋也\
+出身\
+埼玉県\
+生年月日\
+2002年5月17日\
+学校\
+東京デザインテクノロジーセンター専門学校\
+スーパーIT科 スーパーゲームクリエイター専攻\
+2025年3月卒業
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+# About
+高校の頃、リズムゲームを作りたくてUnityを個人で勉強し始めてプログラミングの楽しさを学びました。\
+知らない分野に挑戦することが多くHololens 2やAzure Kinect DKなどを使用したゲームの開発経験もあります。\
+専門学校では少人数のチームで主にメインプログラマーとしてコードを書いていました。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+# works
+
+| 制作年度 | 制作期間 | タイトル名 | プラットフォーム |
+| :- | :- | :- | :- |
+| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド](works/gimmick-field) | Nintendo Switch |
+| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士](works/knight-of-heavenly-palace) | Nintendo Switch |
+| 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive](works/HoloDive) | Hololens 2 |
+| 3年 | 2023/04/21 ~ | [EnigMouse](works/EnigMouse) | Windows & Azure Kinect DK |
+
+### Account 
+[GitHub](https://github.com/to3oi)
