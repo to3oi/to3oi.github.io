@@ -2,6 +2,7 @@
 layout: page
 title: gimmick-field
 categories: works
+tags: works
 permalink: /works/gimmick-field/
 image: /assets/src/gimmick-field/TitleLogo.png
 ---

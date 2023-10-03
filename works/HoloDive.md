@@ -2,6 +2,7 @@
 layout: page
 title: "HoloDive"
 categories: works
+tags: works
 permalink: /works/HoloDive/
 image: /assets/src/HoloDive/TitleLogo.png
 ---
