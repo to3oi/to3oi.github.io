@@ -2,7 +2,6 @@
 layout: page
 title: "EnigMouse"
 categories: works
-# permalink: /:categories/:title
 permalink: /works/EnigMouse/
 image: /assets/src/EnigMouse/TitleLogo.png
 ---
