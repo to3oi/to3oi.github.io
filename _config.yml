@@ -3,6 +3,7 @@ gems:
   - jemoji
   - jekyll-paginate
 
+encoding: UTF-8
 # Site settings
 title: "Portfolio"
 description: > # this means to ignore newlines until "email:"
