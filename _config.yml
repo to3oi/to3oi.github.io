@@ -15,7 +15,7 @@ logo: ""
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "assets/images/IMG_20180703_170206.jpg"
+cover: "https://to3oi.github.io/assets/images/IMG_20180703_170206.jpg"
 
 name: 'to3oi'
 author: 'to3oi'
