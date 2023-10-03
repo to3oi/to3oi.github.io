@@ -10,7 +10,7 @@ layout: default
 
 <header class="blog-header">
     {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}{{site.baseurl}}" style="background-image: url('{{ site.author_image | prepend: site.baseurl }}')">{{ site.title }}</a>
+      <a class="blog-logo" href="{{site.url}}{{site.baseurl}}" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
@@ -34,7 +34,7 @@ layout: default
     <h5 class="index-headline featured"><span>Featured</span></h5>
 
     <div class="container featured">
-      {% for post in site.tags.works %}
+      {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
