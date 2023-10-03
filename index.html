@@ -29,7 +29,16 @@ layout: default
 
 
 <main class="content" role="main">
-
+  <ul class="tag-cloud">
+    {% for tag_name in tag_names %}
+      <li>
+        <a href="{{ baseurl }}/tags#{{ tag_name | slugize }}">
+          {{ tag_name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+  
     {% if site.tags.works %}
     <h5 class="index-headline featured"><span>works</span></h5>
 
