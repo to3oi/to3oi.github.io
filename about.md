@@ -13,9 +13,6 @@ permalink: /about/
 | 3年 | 2023/04/21 ~ | [EnigMouse](works/EnigMouse) | Windows & Azure Kinect DK | [https://github.com/to3oi/EnigMouse_Public](https://github.com/to3oi/EnigMouse_Public) |
 -->
 
-
-# Profile
-![](https://avatars.githubusercontent.com/u/41101653)\
 イトウ トモヤ\
 伊藤 朋也\
 出身\

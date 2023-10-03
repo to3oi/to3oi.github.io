@@ -34,18 +34,18 @@ layout: default
     <h5 class="index-headline featured"><span>Featured</span></h5>
 
     <div class="container featured">
-      {% for works in site.tags.works %}
-        <article class="works" itemscope itemtype="http://schema.org/Blogworksing" role="article">
+      {% for post in site.tags.works %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
-            <header class="works-header">
-              <h2 class="works-title" itemprop="name"><a href="{{ works.url | prepend: site.baseurl }}" itemprop="url">{{ works.title }}</a></h2>
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
-            <section class="works-excerpt" itemprop="description">
-              <p>{{ works.content | strip_html | truncatewords: 50 }}</p>
+            <section class="post-excerpt" itemprop="description">
+              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
-            <div class="works-meta">
-              <time datetime="{{ works.date | date_to_long_string }}">{{ works.date | date_to_long_string }}</time>
-  <!--            <span class="works-tags-set">on {{#foreach tags}}<span class="works-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           </div>
         </article>

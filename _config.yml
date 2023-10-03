@@ -6,7 +6,9 @@ gems:
 encoding: UTF-8
 # Site settings
 title: "Portfolio"
-description: > # this means to ignore newlines until "email:"
+description: > 
+to3oi's Portfolio
+
 
 email: tomoya.ito.0517&copy;gmail.com
 #blog logo
