@@ -95,6 +95,11 @@ layout: default
     <!-- {{!! After all the posts, we have the previous/next pagination links }}
     {{pagination}} -->
     
+    {% if site.tags.about %}
+    <h5 class="index-headline featured"><span>about</span></h5>
+    {% endif %}
+
+
     {% for page  in site.pages %}
       {% if page.tags.about %}
         <div>
