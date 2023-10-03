@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "HoloDive"
-# categories: works
-# permalink: /:categories/:title/
+categories: works
 ---
 
 # HoloDive
