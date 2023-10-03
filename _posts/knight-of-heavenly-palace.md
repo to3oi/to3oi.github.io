@@ -2,6 +2,8 @@
 layout: page
 title: knight-of-heavenly-palace
 categories: works
+permalink: /:categories/:title
+image: /assets/src/knight-of-heavenly-palace/TitleLogo.png
 ---
 
 # 天上宮殿の騎士

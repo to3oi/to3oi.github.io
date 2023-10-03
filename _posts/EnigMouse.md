@@ -2,6 +2,8 @@
 layout: page
 title: "EnigMouse"
 categories: works
+permalink: /:categories/:title
+image: /assets/src/EnigMouse/TitleLogo.png
 ---
 
 # EnigMouse
