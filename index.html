@@ -95,12 +95,13 @@ layout: default
     <!-- {{!! After all the posts, we have the previous/next pagination links }}
     {{pagination}} -->
     
-
-    {% if site.tags.about %}
-      <div>
-        <h2>{{ page.title }}</h2>
-        {{ content }}
-      </div>
-    {% endif %}
+    {% for page  in site.pages %}
+      {% if page.tags.about %}
+        <div>
+          <h2>{{ page.title }}</h2>
+          {{ content }}
+        </div>
+      {% endif %}
+    {% endfor %}
 
 </main>
