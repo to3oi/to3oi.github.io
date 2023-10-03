@@ -30,6 +30,10 @@ twitter_handle: '@to3oi'
 
 #google_analytics: UA-XXXXX-X
 
+sass:
+  sass_dir: css
+  style: compressed
+
 # social icons and sharing options
 social:
   - icon:	twitter
