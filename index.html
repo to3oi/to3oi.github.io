@@ -95,12 +95,12 @@ layout: default
     <!-- {{!! After all the posts, we have the previous/next pagination links }}
     {{pagination}} -->
     
-    {% if site.tags.about %}
-    <h5 class="index-headline featured"><span>about</span></h5>
-    {% endif %}
+
 
 
     {% for page  in site.pages %}
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.content | markdownify }}</p>
       {% if page.tags.about %}
         <div>
           <h2>{{ page.title }}</h2>
