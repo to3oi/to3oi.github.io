@@ -40,7 +40,7 @@ image: /assets/src/EnigMouse/TitleLogo.png
 - マスを切り替える処理などを考慮したクラス設計
 - 一部のエフェクト
 - 残り時間のUI
-- いくつかのマネージャークラスの作成\(InputManager,EffectManager,GameManager,TitleManager)
+- いくつかのマネージャークラスの作成\(InputManager ,EffectManager ,GameManager ,TitleManager )
 
 入力装置すべて
 - ゲーム本編との通信
