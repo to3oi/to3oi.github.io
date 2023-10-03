@@ -48,7 +48,7 @@ social:
 defaults:
   - scope:
       path: ""
-      type: "page"
+      type: "pages"
       categories: "works"
     values:
       permalink: /:categories/:title/
