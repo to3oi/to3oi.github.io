@@ -2,7 +2,7 @@
 layout: page
 title: "HoloDive"
 categories: works
-permalink: /:categories/:title
+permalink: /works/HoloDive/
 image: /assets/src/HoloDive/TitleLogo.png
 ---
 
