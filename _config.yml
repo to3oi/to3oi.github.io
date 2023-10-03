@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: tomoya.ito.0517&copy;gmail.com
 #blog logo
-logo: "https://to3oi.github.io/"
+logo: "https://github.com/to3oi.png"
 float_logo: true # true, false (default)
 
 # blog cover
