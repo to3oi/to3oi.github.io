@@ -11,6 +11,9 @@ permalink: /about/
 | 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive](works/HoloDive) | Hololens 2 | [https://github.com/to3oi/HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public) |
 | 3年 | 2023/04/21 ~ | [EnigMouse](works/EnigMouse) | Windows & Azure Kinect DK | [https://github.com/to3oi/EnigMouse_Public](https://github.com/to3oi/EnigMouse_Public) |
 -->
+
+---
+
 イトウ トモヤ\
 伊藤 朋也\
 出身\
@@ -22,10 +25,18 @@ permalink: /about/
 スーパーIT科 スーパーゲームクリエイター専攻\
 2025年3月卒業
 
+---
+
+---
+
 # About
 高校の頃、リズムゲームを作りたくてUnityを個人で勉強し始めてプログラミングの楽しさを学びました。\
 知らない分野に挑戦することが多くHololens 2やAzure Kinect DKなどを使用したゲームの開発経験もあります。\
 専門学校では少人数のチームで主にメインプログラマーとしてコードを書いていました。
+
+---
+
+---
 
 # works
 
@@ -36,5 +47,11 @@ permalink: /about/
 | 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive]({{ post.url }}/works/HoloDive) | Hololens 2 |
 | 3年 | 2023/04/21 ~ | [EnigMouse]({{ post.url }}/works/EnigMouse) | Windows & Azure Kinect DK |
 
+---
+
+---
+
 ### Account 
 [GitHub](https://github.com/to3oi)
+
+---

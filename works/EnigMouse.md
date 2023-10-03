@@ -9,6 +9,8 @@ image: /assets/src/EnigMouse/TitleLogo.png
 
 # EnigMouse
 
+---
+
 ### GitHubリポジトリ
 ゲーム本編\
 [EnugMouse](https://github.com/to3oi/EnigMouse_Public)
@@ -17,10 +19,18 @@ image: /assets/src/EnigMouse/TitleLogo.png
 [EnigMouseSendMaster](https://github.com/to3oi/EnigMouseSendMaster)\
 [EnigMouseSendClient](https://github.com/to3oi/EnigMouseSendClient)
 
+---
+
+---
+
 ### ストーリー
 プレイヤーは魔法学校の生徒。
 授業中誤って二次元に封じ込める魔法を暴走させ、教室の鍵を封印してしまう。
 教室から出るために他の生徒と協力し、鍵を入手して教室から脱出しよう。
+
+---
+
+---
 
 ## 担当&実装箇所
 ゲーム本編
@@ -39,3 +49,5 @@ image: /assets/src/EnigMouse/TitleLogo.png
 
 その他
 - プロジェクターとAzure Kinect DKと机の距離の調整
+
+---
