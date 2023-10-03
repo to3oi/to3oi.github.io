@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: gimmick-field
 categories: works
 tags: works

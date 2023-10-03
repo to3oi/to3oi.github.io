@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: knight-of-heavenly-palace
 categories: works
 tags: works
