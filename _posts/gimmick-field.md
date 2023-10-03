@@ -2,7 +2,7 @@
 layout: page
 title: gimmick-field
 categories: works
-permalink: /:categories/:title
+permalink: /:categories/:title/
 image: /assets/src/gimmick-field/TitleLogo.png
 ---
 
