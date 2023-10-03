@@ -98,13 +98,13 @@ layout: default
 
 
 
-    {% for page  in site.pages %}
-      {% if page.tags.about %}
-        <div>
-          <h2>{{ page.title }}</h2>
-          <p>{{ page.content | markdownify }}</p>
-        </div>
-      {% endif %}
-    {% endfor %}
+  {% for page in site.pages %}
+    {% if page.tags contains 'about' %}
+      <div>
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.content | markdownify }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
 
 </main>
