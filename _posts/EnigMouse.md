@@ -2,7 +2,7 @@
 layout: page
 title: EnigMouse
 categories: works
-permalink: /:categories/EnigMouse/
+permalink: /:categories/:title/
 ---
 
 # EnigMouse

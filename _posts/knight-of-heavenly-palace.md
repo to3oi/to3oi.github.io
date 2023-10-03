@@ -2,7 +2,7 @@
 layout: page
 title: knight-of-heavenly-palace
 categories: works
-permalink: /:categories/knight-of-heavenly-palace/
+permalink: /:categories/:title/
 ---
 
 # 天上宮殿の騎士
