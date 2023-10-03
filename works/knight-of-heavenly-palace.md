@@ -2,6 +2,7 @@
 layout: page
 title: knight-of-heavenly-palace
 categories: works
+tags: works
 permalink: /works/knight-of-heavenly-palace
 image: /assets/src/knight-of-heavenly-palace/TitleLogo.png
 ---

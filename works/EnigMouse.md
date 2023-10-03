@@ -2,6 +2,7 @@
 layout: page
 title: "EnigMouse"
 categories: works
+tags: works
 permalink: /works/EnigMouse/
 image: /assets/src/EnigMouse/TitleLogo.png
 ---
