@@ -1,7 +1,8 @@
 ---
 layout: page
 title: HoloDive
-permalink: /works/HoloDive/
+categories: works
+permalink: /:categories/HoloDive/
 ---
 
 # HoloDive

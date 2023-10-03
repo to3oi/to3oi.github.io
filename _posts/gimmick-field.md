@@ -1,7 +1,8 @@
 ---
 layout: page
 title: gimmick-field
-permalink: /works/gimmick-field/
+categories: works
+permalink: /:categories/gimmick-field/
 ---
 
 # ギミックフィールド
