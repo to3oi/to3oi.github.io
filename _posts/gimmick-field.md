@@ -1,3 +1,9 @@
+---
+layout: page
+title: gimmick-field
+permalink: /works/gimmick-field/
+---
+
 # ギミックフィールド
 
 ### 実機プレイ映像

@@ -1,3 +1,9 @@
+---
+layout: page
+title: HoloDive
+permalink: /works/HoloDive/
+---
+
 # HoloDive
 
 [GitHubリポジトリ](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
