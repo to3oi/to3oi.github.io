@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "EnigMouse"
 categories: works
 tags: works
