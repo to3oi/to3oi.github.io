@@ -1,8 +1,8 @@
 ---
 layout: page
-title: HoloDive
-categories: works
-permalink: /:categories/:title/
+title: "HoloDive"
+# categories: works
+# permalink: /:categories/:title/
 ---
 
 # HoloDive

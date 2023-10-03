@@ -1,6 +1,6 @@
 ---
 # layout: page
-title: EnigMouse
+title: "EnigMouse"
 # categories: works
 # permalink: /:categories/:title/
 ---
