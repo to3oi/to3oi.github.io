@@ -1,3 +1,9 @@
+---
+layout: page
+title: knight-of-heavenly-palace
+permalink: /works/knight-of-heavenly-palace/
+---
+
 # 天上宮殿の騎士
 
 ### 実機プレイ映像

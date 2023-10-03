@@ -1,3 +1,9 @@
+---
+layout: page
+title: EnigMouse
+permalink: /works/EnigMouse/
+---
+
 # EnigMouse
 
 ### GitHubリポジトリ
