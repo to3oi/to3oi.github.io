@@ -52,4 +52,5 @@ defaults:
       type: "pages"
       categories: "works"
     values:
-      permalink: /:categories/:title/
+      #permalink: /:categories/:title/
+      permalink: /:title/
