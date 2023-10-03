@@ -99,12 +99,10 @@ layout: default
 
 
     {% for page  in site.pages %}
-    <h2>{{ page.title }}</h2>
-    <p>{{ page.content | markdownify }}</p>
       {% if page.tags.about %}
         <div>
           <h2>{{ page.title }}</h2>
-          {{ content }}
+          <p>{{ page.content | markdownify }}</p>
         </div>
       {% endif %}
     {% endfor %}
