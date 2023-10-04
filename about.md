@@ -31,7 +31,7 @@ permalink: /about/
 ---
 
 # About
-高校の頃、リズムゲームを作りたくてUnityを個人で勉強し始めてプログラミングの楽しさを学びました。\
+高校の頃リズムゲームを作りたくてUnityを個人で勉強し始め、プログラミングの楽しさを学びました。\
 知らない分野に挑戦することが多くHololens 2やAzure Kinect DKなどを使用したゲームの開発経験もあります。\
 専門学校では少人数のチームで主にメインプログラマーとしてコードを書いていました。
 
@@ -47,6 +47,18 @@ permalink: /about/
 | 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士]({{ post.url }}/works/knight-of-heavenly-palace) | Nintendo Switch |
 | 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive]({{ post.url }}/works/HoloDive) | Hololens 2 |
 | 3年 | 2023/04/21 ~ | [EnigMouse]({{ post.url }}/works/EnigMouse) | Windows & Azure Kinect DK |
+
+---
+
+---
+
+# Job
+
+| 期間 | 会社名 | 業務内容 |
+| :- | :- | :- |
+| 2019/8 ~ 2020/3 | Nepps | 小中学生向けのプログラミング教室 |
+| 2022/4 ~ 2022/9 | CGCG スタジオ | 自社IPのオリジナル3Dアクションゲームの制作 |
+
 
 ---
 
