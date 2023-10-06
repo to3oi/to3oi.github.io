@@ -7,6 +7,7 @@ permalink: /apps/SantaRun/PrivacyPolicy
 image: /apps/SantaRun/images/Santa_Ran_top.png
 image2: /apps/SantaRun/images/Santa_Ran_top.png
 ---
+このページはゲーム`Santa Run`のプライバシーポリシーのページです。
 このプライバシーポリシーは`App Privacy Policy Generator`によって作成されました。
 日本語への翻訳はChatGPTにより生成されています。
 また当プライバシーポリシーは英語版を原本としています。
