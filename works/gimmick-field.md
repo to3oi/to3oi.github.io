@@ -5,6 +5,7 @@ categories: works
 tags: works
 permalink: /works/gimmick-field/
 image: /assets/src/gimmick-field/TitleLogo.png
+image2: /assets/src/gimmick-field/TitleLogo.png
 ---
 
 # ギミックフィールド
