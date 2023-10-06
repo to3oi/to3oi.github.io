@@ -5,6 +5,7 @@ categories: works
 tags: works
 permalink: /works/knight-of-heavenly-palace
 image: /assets/src/knight-of-heavenly-palace/TitleLogo.png
+image2: /assets/src/knight-of-heavenly-palace/TitleLogo.png
 ---
 
 # 天上宮殿の騎士

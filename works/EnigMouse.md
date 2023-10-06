@@ -5,6 +5,7 @@ categories: works
 tags: works
 permalink: /works/EnigMouse/
 image: /assets/src/EnigMouse/TitleLogo.png
+image2: /assets/src/EnigMouse/TitleLogo.png
 ---
 
 # EnigMouse
