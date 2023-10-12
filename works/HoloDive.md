@@ -15,6 +15,29 @@ image2: /assets/src/HoloDive/TitleLogo.png
 ### GitHubリポジトリ
 [HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
 
+[![HoloDive](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=HoloDive-Hololens-Repository-Public)](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
+
+---
+
+---
+
+## 実装箇所
+Hololens 2本体で使用するコード
+- 環境構築
+- ゲームの進行管理
+- 画像認識した画像の種類の通知処理
+- エフェクトなどの演出
+
+コードの確認はこちら\
+[https://github.com/to3oi/HoloDive-Hololens-Repository-Public/tree/main/Assets/User/Tomoi](https://github.com/to3oi/HoloDive-Hololens-Repository-Public/tree/main/Assets/User/Tomoi)
+
+---
+
+---
+
+## 実機動画
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smT1GH2vxLM?si=OTHXEV5NACUT993s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 
 ---
@@ -38,28 +61,10 @@ image2: /assets/src/HoloDive/TitleLogo.png
 
 ---
 
-## 実機動画
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smT1GH2vxLM?si=OTHXEV5NACUT993s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
----
-
-## 実装箇所
-Hololens 2の実機で見えるコードすべて
-- 環境構築
-- ゲームの進行管理
-- 画像認識した画像の種類の通知
-- エフェクトなどの演出
-
----
-
----
-
 ## こだわり
 
 ### 時間軸の移動
-手の甲を2回タップすることで時間軸を移動する事ができます。
+手の甲を2回タップすることで時間軸を移動する事ができます。\
 この処理をするためにMRTKで取得できる指と手の甲の位置に動的にコライダーを配置し、タップの検出ができるようにしました。
 
 ![](../assets/src/HoloDive/HoloDive_FingerTrigger.png)
@@ -67,10 +72,10 @@ Hololens 2の実機で見えるコードすべて
 ---
 
 ### 時間軸移動時のエフェクト
-以下の動画のように時間軸を移動したときに、手の座標を中心に波紋のようなエフェクトを実装し、時間軸を移動したことをプレイヤーがわかるようにしました。
+以下の動画のように時間軸を移動したときに、手の座標を中心に波紋のようなエフェクトを実装し、時間軸を移動したことをプレイヤーがわかるようにしました。\
+これはShaderGraphで実装し、Hololens 2の実機で処理落ちが少なくなるよう軽量化をしました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smT1GH2vxLM?si=HGrpoBMENT7A1oYb&amp;start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-これはShaderGraphで実装し、Hololens 2の実機で処理落ちが少なくなるよう軽量化をしました。
 
 ---
