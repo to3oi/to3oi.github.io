@@ -39,7 +39,7 @@ image2: /assets/src/HoloDive/TitleLogo.png
 ---
 
 ## 実機動画
-[![動画リンクはこちら](https://github.com/to3oi/HoloDive-Hololens-Repository-Public/blob/main/Image/Wiki/COMGameSHOW/COMGameShow1.0.1%20PlayMovieSampleThumbnail.png?raw=false)](https://youtu.be/smT1GH2vxLM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smT1GH2vxLM?si=OTHXEV5NACUT993s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -69,7 +69,7 @@ Hololens 2の実機で見えるコードすべて
 ### 時間軸移動時のエフェクト
 以下の動画のように時間軸を移動したときに、手の座標を中心に波紋のようなエフェクトを実装し、時間軸を移動したことをプレイヤーがわかるようにしました。
 
-[https://youtu.be/smT1GH2vxLM?si=CPyHPoa-XQu3DZ7i&t=32](https://youtu.be/smT1GH2vxLM?si=CPyHPoa-XQu3DZ7i&t=32)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smT1GH2vxLM?si=HGrpoBMENT7A1oYb&amp;start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 これはShaderGraphで実装し、Hololens 2の実機で処理落ちが少なくなるよう軽量化をしました。
 

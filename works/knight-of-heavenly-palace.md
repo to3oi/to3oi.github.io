@@ -20,7 +20,7 @@ image2: /assets/src/knight-of-heavenly-palace/TitleLogo.png
 ---
 
 ### 実機プレイ映像
-[https://www.youtube.com/watch?v=0xTNXxZfsR0&ab_channel=to3oi](https://www.youtube.com/watch?v=0xTNXxZfsR0&ab_channel=to3oi)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0xTNXxZfsR0?si=UQ1VZ1qsgnT-4NC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
