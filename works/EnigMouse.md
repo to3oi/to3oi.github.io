@@ -19,6 +19,7 @@ image2: /assets/src/EnigMouse/TitleLogo.png
 入力装置\
 [![EnigMouseSendMaster](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendMaster)](https://github.com/to3oi/EnigMouseSendMaster)\
 [![EnigMouseSendClient](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendClient)](https://github.com/to3oi/EnigMouseSendClient)
+
 ---
 
 ---
@@ -57,10 +58,10 @@ image2: /assets/src/EnigMouse/TitleLogo.png
 
 ---
 
-### ストーリー
+## ストーリー
 プレイヤーは魔法学校の生徒。\
 授業中誤って2次元に封じ込める魔法を暴走させ、教室の鍵を封印してしまう。\
-教室から出るために他の生徒と協力し、鍵を入手して教室から脱出しよう。\
+教室から出るために他の生徒と協力し、鍵を入手して教室から脱出しよう。
 
 ---
 
@@ -79,7 +80,8 @@ image2: /assets/src/EnigMouse/TitleLogo.png
 ### 物体検出の精度向上
 このゲームの入力は魔導具で行います。\
 正確には魔導具に貼られた再帰反射シールの形によって座標と魔法の種類が決まり、魔法が発動できます。\
-Azure Kinect DKでは「Depthカメラ (ToF) 、再帰反射シールにより増幅されたIR Emitter ( 近赤外線 )、机より外を簡易的にマスクする処理」の3つをOpenCVのBitwiseAndなどを使用してマスクを掛けることによって以下のResultのような画像が生成できます。\
+Azure Kinect DKでは「Depthカメラ (ToF) 、再帰反射シールにより増幅されたIR Emitter ( 近赤外線 )、机より外を簡易的にマスクする処理」の3つをOpenCVのBitwiseAndなどを使用してマスクを掛けることによって以下のResultのような画像が生成できます。
+
 ※見やすくするためにマスクする領域を青で示しています。\
 実際には青の領域は切り落とされ中央の青のない部分が画像として出力されます。\
 ![](../assets/src/EnigMouse/MaskImageSample.png)
