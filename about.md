@@ -9,16 +9,17 @@ permalink: /about/
 
 ---
 
-イトウ トモヤ\
-<span style="font-size: 150%;"> **伊藤 朋也**</span>\
-<span style="font-size: 150%;"> **出身**</span>\
-埼玉県\
-<span style="font-size: 150%;">  **生年月日**</span>\
-2002年5月17日\
-<span style="font-size: 150%;">  **学校**</span>\
+### 名前
+伊藤 朋也
+### 出身
+埼玉県
+### 生年月日
+2002年5月17日
+### 学校
 東京デザインテクノロジーセンター専門学校\
 スーパーIT科 スーパーゲームクリエイター専攻\
 2025年3月卒業
+
 ---
 
 # About
