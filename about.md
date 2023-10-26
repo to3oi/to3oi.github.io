@@ -34,13 +34,10 @@ permalink: /about/
 
 # Skill
 
-<div class = "SkillIcon">
-
 | 使用言語 | 練度 |
 | :-: | :-: |
-| ![Alt text]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp-logo.svg) | ![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star.svg) |
+| ![c-sharp]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp-logo.svg) | ![star-true]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![star]({{ post.url }}assets/src/About/Skill/icons8-star.svg) |
 
-</div>
 ---
 
 # Works
@@ -48,6 +45,7 @@ permalink: /about/
 ---
 
 | 制作年度 | 制作期間 | タイトル名 | プラットフォーム |
+{: .SkillIcon }
 | :-: | :-: | :-: | :-: |
 | 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド]({{ post.url }}/works/gimmick-field) | Nintendo Switch |
 | 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士]({{ post.url }}/works/knight-of-heavenly-palace) | Nintendo Switch |
