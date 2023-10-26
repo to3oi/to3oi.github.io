@@ -48,10 +48,6 @@ permalink: /about/
 
 | 制作年度 | 制作期間 | タイトル名 | プラットフォーム |
 | :-: | :-: | :-: | :-: |
-<!--
-| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド]({{ post.url }}/works/gimmick-field) | Nintendo Switch |
-| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士]({{ post.url }}/works/knight-of-heavenly-palace) | Nintendo Switch |
--->
 | 1年 | 2021/10/8 ~ 2022/2/9 | ギミックフィールド | Nintendo Switch |
 | 2年 | 2022/4/22 ~ 2022/9/24 | 天上宮殿の騎士 | Nintendo Switch |
 | 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive]({{ post.url }}/works/HoloDive) | Hololens 2 |
@@ -77,3 +73,10 @@ permalink: /about/
 [![GitHub]({{ post.url }}/assets/src/About/Skill/github-mark.svg)](https://github.com/to3oi)
 
 ---
+
+
+
+<!--
+| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド]({{ post.url }}/works/gimmick-field) | Nintendo Switch |
+| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士]({{ post.url }}/works/knight-of-heavenly-palace) | Nintendo Switch |
+-->
