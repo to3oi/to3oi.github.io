@@ -34,7 +34,10 @@ permalink: /about/
 
 # Skill
 
-![Alt text]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp-logo.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star.svg)
+
+| 使用言語 | 練度 |
+| :- | :- |
+| ![Alt text]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp-logo.svg) | ![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star.svg) |
 
 ---
 
