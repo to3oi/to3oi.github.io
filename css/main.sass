@@ -625,8 +625,16 @@ pre
 //About Skill アイコンサイズ
 
 .SkillTable
+  display: flex
+  flex-wrap: wrap
   margin : auto
   word-break: keep-all
+
+.SkillTable table
+  max-width: 100%
+  height: auto
+  margin: 5px
+
 
 .SkillTable table
   border-collapse: collapse
@@ -639,9 +647,6 @@ pre
   text-align:center
   box-sizing:border-box
 
-.SkillTable .tb01 th
-  background: #ff7bac
-  color: #fff
 
 @media screen and (max-width: 640px)
   .SkillTable .tb01
@@ -655,3 +660,8 @@ pre
 
   .SkillTable .tb01 tr:last-child
     border-bottom: solid 1px #ccc
+
+@media (max-width: 767px)
+  .SkillTable
+    flex-direction: column
+    margin: 0
