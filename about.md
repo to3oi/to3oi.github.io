@@ -69,6 +69,6 @@ permalink: /about/
 
 ---
 
-[GitHub](https://github.com/to3oi)
+[![GitHub]({{ post.url }}/assets/src/About/Skill/github-mark.svg)](https://github.com/to3oi)
 
 ---
