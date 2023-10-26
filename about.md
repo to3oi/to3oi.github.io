@@ -37,6 +37,8 @@ permalink: /about/
 | 使用言語 | 練度 |
 | :-: | :-: |
 | ![c-sharp]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp-logo.svg) | ![star-true]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![star]({{ post.url }}assets/src/About/Skill/icons8-star.svg) |
+{: .SkillIcon }
+
 
 ---
 
@@ -50,7 +52,6 @@ permalink: /about/
 | 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士]({{ post.url }}/works/knight-of-heavenly-palace) | Nintendo Switch |
 | 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive]({{ post.url }}/works/HoloDive) | Hololens 2 |
 | 3年 | 2023/04/21 ~ | [EnigMouse]({{ post.url }}/works/EnigMouse) | Windows & Azure Kinect DK |
-{: .SkillIcon }
 
 ---
 
