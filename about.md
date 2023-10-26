@@ -31,7 +31,14 @@ permalink: /about/
 専門学校では少人数のチームで主にメインプログラマーとしてコードを書いていました。
 
 ---
-# works
+
+# Skill
+
+![Alt text]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp-logo.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star-true.svg)![Alt text]({{ post.url }}assets/src/About/Skill/icons8-star.svg)
+
+---
+
+# Works
 
 ---
 
@@ -43,6 +50,7 @@ permalink: /about/
 | 3年 | 2023/04/21 ~ | [EnigMouse]({{ post.url }}/works/EnigMouse) | Windows & Azure Kinect DK |
 
 ---
+
 # Job
 
 ---
@@ -53,6 +61,7 @@ permalink: /about/
 | 2022/4 ~ 2022/9 | CGCG スタジオ | 自社IPのオリジナル3Dアクションゲームの制作 |
 
 ---
+
 # Account 
 
 ---
