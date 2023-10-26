@@ -37,7 +37,7 @@ permalink: /about/
 | 使用言語 | 練度 |
 | :-: | :-: |
 | ![c-sharp]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp-logo.svg) | ![star-true]({{ post.url }}assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ post.url }}assets/src/About/Skill/icons8-small-star.svg) |
-{: .SkillIcon }
+{: .SkillTable }
 
 
 ---
