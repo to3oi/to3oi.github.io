@@ -41,9 +41,19 @@ permalink: /about/
  ![Python]({{ post.url }}/assets/src/About/Skill/icons8-Python.svg) 
  ![Markdown]({{ post.url }}/assets/src/About/Skill/icons8-Markdown.svg) 
 
+![HTML]({{ post.url }}/assets/src/About/Skill/icons8-HTML.svg) 
+![CSS]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
+![SASS]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
+![jekyll]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
+![WordPress]({{ post.url }}/assets/src/About/Skill/icons8-wordpress.svg) 
+![PHP]({{ post.url }}/assets/src/About/Skill/icons8-php.svg) 
+ 
+
+
 ---
 
 ### ツール 
+
  ![Unity]({{ post.url }}/assets/src/About/Skill/icons8-Unity.svg)
  ![VisualStudio]({{ post.url }}/assets/src/About/Skill/icons8-VisualStudio.svg)
  ![VisualStudioCode]({{ post.url }}/assets/src/About/Skill/icons8-VisualStudioCode.svg)
