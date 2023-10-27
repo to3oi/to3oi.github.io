@@ -36,19 +36,20 @@ permalink: /about/
 
 ### 言語 
 
+<p>
  ![c#]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp.svg) 
  ![c++]({{ post.url }}/assets/src/About/Skill/icons8-c++.svg) 
  ![Python]({{ post.url }}/assets/src/About/Skill/icons8-Python.svg) 
  ![Markdown]({{ post.url }}/assets/src/About/Skill/icons8-Markdown.svg) 
-
-![HTML]({{ post.url }}/assets/src/About/Skill/icons8-HTML.svg) 
+</p>
+<p>
+![HTML]({{ post.url }}/assets/src/About/Skill/icons8-html.svg) 
 ![CSS]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
 ![SASS]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
 ![jekyll]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
 ![WordPress]({{ post.url }}/assets/src/About/Skill/icons8-wordpress.svg) 
 ![PHP]({{ post.url }}/assets/src/About/Skill/icons8-php.svg) 
- 
-
+</p>
 
 ---
 
