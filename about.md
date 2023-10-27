@@ -42,7 +42,7 @@ permalink: /about/
 | ![Markdown]({{ post.url }}/assets/src/About/Skill/icons8-Markdown.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
 {: .SkillTable }
 
-
+---
 
 | ツール | 練度 |
 | :-: | :-: |
