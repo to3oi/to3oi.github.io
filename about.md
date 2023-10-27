@@ -62,6 +62,14 @@ permalink: /about/
  ![Blender]({{ post.url }}/assets/src/About/Skill/icons8-Blender.svg)
  ![GitHub]({{ post.url }}/assets/src/About/Skill/github-mark.svg)
 
+ ![Photohop]({{ post.url }}/assets/src/About/Skill/icons8-adobe-photoshop.svg)
+ ![Illustrator]({{ post.url }}/assets/src/About/Skill/icons8-adobe-illustrator.svg)
+ ![AfterEffects]({{ post.url }}/assets/src/About/Skill/icons8-adobe-after-effects.svg)
+ ![XD]({{ post.url }}/assets/src/About/Skill/icons8-adobe-xd.svg)
+
+
+
+
 ---
 
 # Works
