@@ -40,6 +40,7 @@ permalink: /about/
  ![c++]({{ post.url }}/assets/src/About/Skill/icons8-c++.svg) 
  ![Python]({{ post.url }}/assets/src/About/Skill/icons8-Python.svg) 
  ![Markdown]({{ post.url }}/assets/src/About/Skill/icons8-Markdown.svg) 
+
 ---
 
 ### ツール 
@@ -50,9 +51,6 @@ permalink: /about/
  ![Rider]({{ post.url }}/assets/src/About/Skill/icons8-Rider.svg)
  ![Blender]({{ post.url }}/assets/src/About/Skill/icons8-Blender.svg)
  ![GitHub]({{ post.url }}/assets/src/About/Skill/github-mark.svg)
-
-etc...
-
 
 ---
 
