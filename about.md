@@ -53,6 +53,8 @@ permalink: /about/
 | ![Rider]({{ post.url }}/assets/src/About/Skill/icons8-Rider.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
 | ![Blender]({{ post.url }}/assets/src/About/Skill/icons8-Blender.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
 {: .SkillTable }
+| ![GitHub]({{ post.url }}/assets/src/About/Skill/icons8-GitHub.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+{: .SkillTable }
 
 
 etc...
