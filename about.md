@@ -34,10 +34,26 @@ permalink: /about/
 
 # Skill
 
-| 使用言語 | 練度 |
+| 言語 | 練度 |
 | :-: | :-: |
-| ![c-sharp]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp-logo.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![c#]({{ post.url }}/assets/src/About/Skill/icons8-c-sharp.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![c++]({{ post.url }}/assets/src/About/Skill/icons8-c++.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![Python]({{ post.url }}/assets/src/About/Skill/icons8-Python.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![Markdown]({{ post.url }}/assets/src/About/Skill/icons8-Markdown.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
 {: .SkillTable }
+
+
+
+| ツール | 練度 |
+| :-: | :-: |
+| ![Unity]({{ post.url }}/assets/src/About/Skill/icons8-Unity.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![UnrealEngine]({{ post.url }}/assets/src/About/Skill/icons8-Unity.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![VisualStudio]({{ post.url }}/assets/src/About/Skill/icons8-VisualStudio.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![VisualStudioCode]({{ post.url }}/assets/src/About/Skill/icons8-VisualStudioCode.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![Rider]({{ post.url }}/assets/src/About/Skill/icons8-Rider.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![Blender]({{ post.url }}/assets/src/About/Skill/icons8-Blender.svg) |<span> ![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ post.url }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ post.url }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+{: .SkillTable }
+
 
 etc...
 
