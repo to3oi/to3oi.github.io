@@ -44,8 +44,8 @@ permalink: /about/
 <br>
 
 ![HTML]({{ post.url }}/assets/src/About/Skill/icons8-html.svg) 
-![CSS]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
-![SASS]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
+![CSS]({{ post.url }}/assets/src/About/Skill/icons8-css.svg) 
+![SASS]({{ post.url }}/assets/src/About/Skill/icons8-sass.svg) 
 ![jekyll]({{ post.url }}/assets/src/About/Skill/icons8-jekyll.svg) 
 ![WordPress]({{ post.url }}/assets/src/About/Skill/icons8-wordpress.svg) 
 ![PHP]({{ post.url }}/assets/src/About/Skill/icons8-php.svg) 
