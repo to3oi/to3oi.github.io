@@ -38,9 +38,9 @@ social:
   - icon:	twitter
     url:	https://twitter.com/to3oi
     desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+    share_url: 
+    share_title: 
+    share_link: 
 
   - icon:	github
     url:	https://github.com/to3oi
