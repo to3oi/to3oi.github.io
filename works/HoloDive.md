@@ -19,8 +19,7 @@ Hololens 2本体で使用するコード
 - 画像認識した画像の種類の通知処理
 - エフェクトなどの演出
 
-コードの確認はこちら\
-[https://github.com/to3oi/HoloDive-Hololens-Repository-Public/tree/main/Assets/User/Tomoi](https://github.com/to3oi/HoloDive-Hololens-Repository-Public/tree/main/Assets/User/Tomoi)
+[コードの確認はこちら](https://github.com/to3oi/HoloDive-Hololens-Repository-Public/tree/main/Assets/User/Tomoi)
 
 ---
 
