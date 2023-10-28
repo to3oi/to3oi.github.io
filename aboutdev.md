@@ -73,20 +73,45 @@ permalink: /other/
 
 ### EnigMouse 
 
-![EnigMouse](/assets/src/EnigMouse/TitleLogo.png) 
+[![EnigMouse](/assets/src/EnigMouse/TitleLogo.png)](/works/EnigMouse)
 {: .Works-img}
 ジャンル : 体感型パーティー × パズルゲーム\
 プラットフォーム : Windows & Azure Kinect DK
 
 [詳細はこちら](/works/EnigMouse)
 
+---
 
-![HoloDive](/assets/src/HoloDive/TitleLogo.png) 
+### HoloDive
+
+[![HoloDive](/assets/src/HoloDive/TitleLogo.png)](/works/HoloDive)
 {: .Works-img}
 ジャンル : 複合現実謎解きゲーム\
 プラットフォーム : Hololens 2
 
 [詳細はこちら](/works/HoloDive)
+
+---
+
+
+### HoloDive
+
+![天上宮殿の騎士](/assets/src/knight-of-heavenly-palace/TitleLogo.png)
+{: .Works-img}
+ジャンル : 複合現実謎解きゲーム\
+プラットフォーム : Nintendo Switch 
+
+---
+
+
+### HoloDive
+
+![ギミックフィールド](/assets/src/gimmick-field/TitleLogo.png)
+{: .Works-img}
+ジャンル : 複合現実謎解きゲーム\
+プラットフォーム : Nintendo Switch 
+
+---
 
 | 制作年度 | 制作期間 | タイトル名 | プラットフォーム |
 | :-: | :-: | :-: | :-: |
