@@ -71,18 +71,21 @@ permalink: /other/
 
 # Works
 
-<div>
-<div class="Works-left">
+<div class = "Works-block">
+
+<p>
 
 体感型パーティー×パズルゲーム :  Windows & Azure Kinect DK\
 [詳細はこちら](/works/EnigMouse)
 
-</div>
-<div class="Works-right">
+</p>
+
+<p>
 
 [![EnigMouse](/assets/src/EnigMouse/TitleLogo.png)](/works/EnigMouse)
 
-</div>
+</p>
+
 </div>
 
 <!--
