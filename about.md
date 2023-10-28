@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-tags: about
+tags: aboutdev
 permalink: /other/
 ---
 
@@ -71,6 +71,47 @@ permalink: /other/
 
 # Works
 
+### EnigMouse 
+
+[![EnigMouse](/assets/src/EnigMouse/TitleLogo.png)](/works/EnigMouse)
+{: .Works-img}
+ジャンル : 体感型パーティー × パズルゲーム\
+プラットフォーム : Windows & Azure Kinect DK
+
+[詳細はこちら](/works/EnigMouse)
+
+---
+
+### HoloDive
+
+[![HoloDive](/assets/src/HoloDive/TitleLogo.png)](/works/HoloDive)
+{: .Works-img}
+ジャンル : 複合現実謎解きゲーム\
+プラットフォーム : Hololens 2
+
+[詳細はこちら](/works/HoloDive)
+
+---
+
+
+### 天上宮殿の騎士
+
+![天上宮殿の騎士](/assets/src/knight-of-heavenly-palace/TitleLogo.png)
+{: .Works-img}
+ジャンル : 複合現実謎解きゲーム\
+プラットフォーム : Nintendo Switch 
+
+---
+
+
+### ギミックフィールド
+
+![ギミックフィールド](/assets/src/gimmick-field/TitleLogo.png)
+{: .Works-img}
+ジャンル : 複合現実謎解きゲーム\
+プラットフォーム : Nintendo Switch 
+
+---
 
 | 制作年度 | 制作期間 | タイトル名 | プラットフォーム |
 | :-: | :-: | :-: | :-: |
@@ -99,24 +140,3 @@ permalink: /other/
 [![GitHub](/assets/src/About/Skill/github-mark.svg)](https://github.com/to3oi)
 
 ---
-
-
-
-<!--
-| ツール | 練度 |
-| :-: | :-: |
-| ![Unity](/assets/src/About/Skill/icons8-Unity.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![UnrealEngine](/assets/src/About/Skill/icons8-UnrealEngine.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![VisualStudio](/assets/src/About/Skill/icons8-VisualStudio.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![VisualStudioCode](/assets/src/About/Skill/icons8-VisualStudioCode.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![Rider](/assets/src/About/Skill/icons8-Rider.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![Blender](/assets/src/About/Skill/icons8-Blender.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![GitHub](/assets/src/About/Skill/github-mark.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
-{: .SkillTable }
-
-
-
-
-| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド](/works/gimmick-field) | Nintendo Switch |
-| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士](/works/knight-of-heavenly-palace) | Nintendo Switch |
--->
