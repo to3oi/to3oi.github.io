@@ -81,6 +81,13 @@ permalink: /other/
 [詳細はこちら](/works/EnigMouse)
 
 
+![HoloDive](/assets/src/HoloDive/TitleLogo.png) 
+{: .Works-img}
+ジャンル : 複合現実謎解きゲーム\
+プラットフォーム : Hololens 2
+
+[詳細はこちら](/works/HoloDive)
+
 | 制作年度 | 制作期間 | タイトル名 | プラットフォーム |
 | :-: | :-: | :-: | :-: |
 | 1年 | 2021/10/8 ~ 2022/2/9 | ギミックフィールド | Nintendo Switch |

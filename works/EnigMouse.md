@@ -25,8 +25,9 @@ C#
 - UniRx	7.1.0
 - UniTask	2.3.2
 - MessagePack-CSharp	2.5.124
+- DOTween (HOTween v2)	1.2.745
 
-### 開発人数
+### 主要開発人数
 プランナー : 2人\
 プログラマー : 3人\
 計5人
