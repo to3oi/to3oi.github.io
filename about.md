@@ -2,6 +2,7 @@
 layout: post
 title: 
 tags: about
+permalink: /other/
 ---
 
 # Profile
