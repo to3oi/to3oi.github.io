@@ -24,7 +24,7 @@ author_image: "https://github.com/to3oi.png"
 paginate:	5
 
 url: "https://to3oi.github.io/" # the base hostname & protocol for your site
-baseurl: "https://to3oi.github.io/"
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@to3oi'
 
