@@ -12,15 +12,6 @@ image2: /assets/src/HoloDive/TitleLogo.png
 
 ---
 
-### GitHubリポジトリ
-[HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
-
-[![HoloDive](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=HoloDive-Hololens-Repository-Public)](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
-
----
-
----
-
 ## 実装箇所
 Hololens 2本体で使用するコード
 - 環境構築
@@ -37,6 +28,8 @@ Hololens 2本体で使用するコード
 
 ## 実機動画
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smT1GH2vxLM?si=OTHXEV5NACUT993s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+実行デバイス : Hololens 2
 
 ---
 
@@ -77,5 +70,14 @@ Hololens 2本体で使用するコード
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smT1GH2vxLM?si=HGrpoBMENT7A1oYb&amp;start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+---
+
+---
+
+### GitHubリポジトリ
+[HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
+
+[![HoloDive](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=HoloDive-Hololens-Repository-Public)](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
 
 ---

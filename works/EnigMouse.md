@@ -12,18 +12,6 @@ image2: /assets/src/EnigMouse/TitleLogo.png
 
 ---
 
-### GitHubリポジトリ
-ゲーム本編\
-[![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)](https://github.com/to3oi/EnigMouse_Public)
-
-入力装置\
-[![EnigMouseSendMaster](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendMaster)](https://github.com/to3oi/EnigMouseSendMaster)\
-[![EnigMouseSendClient](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendClient)](https://github.com/to3oi/EnigMouseSendClient)
-
----
-
----
-
 ## 担当&実装箇所
 ゲーム本編
 - 入力周りの処理
@@ -104,5 +92,17 @@ MasterPCではAzure Kinect DKの画像処理、ClientPCでは物体検出のみ�
 これによりMasterPC1台、ClientPC2台で実行して30FPSが安定して出るようになりました。
 
 [技術詳細はここから確認できます。](https://to3oi.hatenablog.com/entry/2023/09/19/151932)
+
+---
+
+---
+
+### GitHubリポジトリ
+ゲーム本編\
+[![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)](https://github.com/to3oi/EnigMouse_Public)
+
+入力装置\
+[![EnigMouseSendMaster](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendMaster)](https://github.com/to3oi/EnigMouseSendMaster)\
+[![EnigMouseSendClient](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendClient)](https://github.com/to3oi/EnigMouseSendClient)
 
 ---

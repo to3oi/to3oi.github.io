@@ -75,8 +75,8 @@ permalink: /other/
 
 ![EnigMouse](/assets/src/EnigMouse/TitleLogo.png) 
 
-体感型パーティー × パズルゲーム
-Windows & Azure Kinect DK
+ジャンル : 体感型パーティー × パズルゲーム
+プラットフォーム : Windows & Azure Kinect DK
 
 [詳細はこちら](/works/EnigMouse)
 

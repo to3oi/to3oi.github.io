@@ -12,15 +12,17 @@ image2: /assets/src/knight-of-heavenly-palace/TitleLogo.png
 
 ---
 
-### GitHubリポジトリ
-[knight-of-heavenly-palace-public](https://github.com/letconst/knight-of-heavenly-palace-public)
-
----
-
----
-
 ### 実機プレイ映像
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xTNXxZfsR0?si=UQ1VZ1qsgnT-4NC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+実行デバイス : Nintendo Switch
+
+---
+
+---
+
+### GitHubリポジトリ
+[knight-of-heavenly-palace-public](https://github.com/letconst/knight-of-heavenly-palace-public)
 
 ---
 
