@@ -68,9 +68,6 @@ permalink: /about/
  ![AfterEffects]({{ post.url }}/assets/src/About/Skill/icons8-adobe-after-effects.svg)
  ![XD]({{ post.url }}/assets/src/About/Skill/icons8-adobe-xd.svg)
 
-
-
-
 ---
 
 # Works
