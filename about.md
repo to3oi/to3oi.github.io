@@ -36,36 +36,36 @@ permalink: /other/
 
 ### 言語 
 
- ![c#]({{ site.baseurl }}/assets/src/About/Skill/icons8-c-sharp.svg) 
- ![c++]({{ site.baseurl }}/assets/src/About/Skill/icons8-c++.svg) 
- ![Python]({{ site.baseurl }}/assets/src/About/Skill/icons8-Python.svg) 
- ![Markdown]({{ site.baseurl }}/assets/src/About/Skill/icons8-Markdown.svg) 
+ ![c#](/assets/src/About/Skill/icons8-c-sharp.svg) 
+ ![c++](/assets/src/About/Skill/icons8-c++.svg) 
+ ![Python](/assets/src/About/Skill/icons8-Python.svg) 
+ ![Markdown](/assets/src/About/Skill/icons8-Markdown.svg) 
 
 <br>
 
-![HTML]({{ site.baseurl }}/assets/src/About/Skill/icons8-html.svg) 
-![CSS]({{ site.baseurl }}/assets/src/About/Skill/icons8-css.svg) 
-![SASS]({{ site.baseurl }}/assets/src/About/Skill/icons8-sass.svg) 
-![jekyll]({{ site.baseurl }}/assets/src/About/Skill/icons8-jekyll.svg) 
-![PHP]({{ site.baseurl }}/assets/src/About/Skill/icons8-php.svg) 
+![HTML](/assets/src/About/Skill/icons8-html.svg) 
+![CSS](/assets/src/About/Skill/icons8-css.svg) 
+![SASS](/assets/src/About/Skill/icons8-sass.svg) 
+![jekyll](/assets/src/About/Skill/icons8-jekyll.svg) 
+![PHP](/assets/src/About/Skill/icons8-php.svg) 
 
 ---
 
 ### ツール 
 
- ![Unity]({{ site.baseurl }}/assets/src/About/Skill/icons8-Unity.svg)
- ![UnrealEngine]({{ site.baseurl }}/assets/src/About/Skill/icons8-UnrealEngine.svg)
- ![VisualStudio]({{ site.baseurl }}/assets/src/About/Skill/icons8-VisualStudio.svg)
- ![VisualStudioCode]({{ site.baseurl }}/assets/src/About/Skill/icons8-VisualStudioCode.svg)
- ![Rider]({{ site.baseurl }}/assets/src/About/Skill/icons8-Rider.svg)
- ![Blender]({{ site.baseurl }}/assets/src/About/Skill/icons8-Blender.svg)
- ![GitHub]({{ site.baseurl }}/assets/src/About/Skill/github-mark.svg)
+ ![Unity](/assets/src/About/Skill/icons8-Unity.svg)
+ ![UnrealEngine](/assets/src/About/Skill/icons8-UnrealEngine.svg)
+ ![VisualStudio](/assets/src/About/Skill/icons8-VisualStudio.svg)
+ ![VisualStudioCode](/assets/src/About/Skill/icons8-VisualStudioCode.svg)
+ ![Rider](/assets/src/About/Skill/icons8-Rider.svg)
+ ![Blender](/assets/src/About/Skill/icons8-Blender.svg)
+ ![GitHub](/assets/src/About/Skill/github-mark.svg)
 
- ![Photohop]({{ site.baseurl }}/assets/src/About/Skill/icons8-adobe-photoshop.svg)
- ![Illustrator]({{ site.baseurl }}/assets/src/About/Skill/icons8-adobe-illustrator.svg)
- ![PremierePro]({{ site.baseurl }}/assets/src/About/Skill/icons8-adobe-premiere-pro.svg)
- ![AfterEffects]({{ site.baseurl }}/assets/src/About/Skill/icons8-adobe-after-effects.svg)
- ![XD]({{ site.baseurl }}/assets/src/About/Skill/icons8-adobe-xd.svg)
+ ![Photohop](/assets/src/About/Skill/icons8-adobe-photoshop.svg)
+ ![Illustrator](/assets/src/About/Skill/icons8-adobe-illustrator.svg)
+ ![PremierePro](/assets/src/About/Skill/icons8-adobe-premiere-pro.svg)
+ ![AfterEffects](/assets/src/About/Skill/icons8-adobe-after-effects.svg)
+ ![XD](/assets/src/About/Skill/icons8-adobe-xd.svg)
 
 ---
 
@@ -74,9 +74,9 @@ permalink: /other/
 <!--
 
 ### EnigMouse
-[![EnigMouse]({{ site.baseurl }}/assets/src/EnigMouse/TitleLogo.png)]({{ site.baseurl }}/works/EnigMouse)\
+[![EnigMouse](/assets/src/EnigMouse/TitleLogo.png)](/works/EnigMouse)\
 体感型パーティー×パズルゲーム :  Windows & Azure Kinect DK\
-[詳細はこちら]({{ site.baseurl }}/works/EnigMouse)
+[詳細はこちら](/works/EnigMouse)
 
 ----->
 
@@ -84,8 +84,8 @@ permalink: /other/
 | :-: | :-: | :-: | :-: |
 | 1年 | 2021/10/8 ~ 2022/2/9 | ギミックフィールド | Nintendo Switch |
 | 2年 | 2022/4/22 ~ 2022/9/24 | 天上宮殿の騎士 | Nintendo Switch |
-| 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive]({{ site.baseurl }}/works/HoloDive) | Hololens 2 |
-| 3年 | 2023/04/21 ~ | [EnigMouse]({{ site.baseurl }}/works/EnigMouse) | Windows & Azure Kinect DK |
+| 2年 | 2022/10/05 ~ 2023/2/11 | [HoloDive](/works/HoloDive) | Hololens 2 |
+| 3年 | 2023/04/21 ~ | [EnigMouse](/works/EnigMouse) | Windows & Azure Kinect DK |
 
 ---
 
@@ -104,7 +104,7 @@ permalink: /other/
 
 ---
 
-[![GitHub]({{ site.baseurl }}/assets/src/About/Skill/github-mark.svg)](https://github.com/to3oi)
+[![GitHub](/assets/src/About/Skill/github-mark.svg)](https://github.com/to3oi)
 
 ---
 
@@ -113,18 +113,18 @@ permalink: /other/
 <!--
 | ツール | 練度 |
 | :-: | :-: |
-| ![Unity]({{ site.baseurl }}/assets/src/About/Skill/icons8-Unity.svg) |<span> ![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![UnrealEngine]({{ site.baseurl }}/assets/src/About/Skill/icons8-UnrealEngine.svg) |<span> ![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)</span><span>![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![VisualStudio]({{ site.baseurl }}/assets/src/About/Skill/icons8-VisualStudio.svg) |<span> ![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![VisualStudioCode]({{ site.baseurl }}/assets/src/About/Skill/icons8-VisualStudioCode.svg) |<span> ![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![Rider]({{ site.baseurl }}/assets/src/About/Skill/icons8-Rider.svg) |<span> ![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![Blender]({{ site.baseurl }}/assets/src/About/Skill/icons8-Blender.svg) |<span> ![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
-| ![GitHub]({{ site.baseurl }}/assets/src/About/Skill/github-mark.svg) |<span> ![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)![star-true]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)![star]({{ site.baseurl }}/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![Unity](/assets/src/About/Skill/icons8-Unity.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![UnrealEngine](/assets/src/About/Skill/icons8-UnrealEngine.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![VisualStudio](/assets/src/About/Skill/icons8-VisualStudio.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![VisualStudioCode](/assets/src/About/Skill/icons8-VisualStudioCode.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![Rider](/assets/src/About/Skill/icons8-Rider.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![Blender](/assets/src/About/Skill/icons8-Blender.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
+| ![GitHub](/assets/src/About/Skill/github-mark.svg) |<span> ![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)![star-true](/assets/src/About/Skill/icons8-small-star-true.svg)</span><span>![star](/assets/src/About/Skill/icons8-small-star.svg)![star](/assets/src/About/Skill/icons8-small-star.svg)</span> |
 {: .SkillTable }
 
 
 
 
-| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド]({{ site.baseurl }}/works/gimmick-field) | Nintendo Switch |
-| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士]({{ site.baseurl }}/works/knight-of-heavenly-palace) | Nintendo Switch |
+| 1年 | 2021/10/8 ~ 2022/2/9 | [ギミックフィールド](/works/gimmick-field) | Nintendo Switch |
+| 2年 | 2022/4/22 ~ 2022/9/24 | [天上宮殿の騎士](/works/knight-of-heavenly-palace) | Nintendo Switch |
 -->
