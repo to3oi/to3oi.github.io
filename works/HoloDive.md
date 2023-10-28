@@ -12,6 +12,30 @@ image2: /assets/src/HoloDive/TitleLogo.png
 
 ---
 
+## 概要
+
+### 使用言語
+C#
+
+### 主要ツール
+- Unity	2021.3.3f1
+- Rider	2022.2.4
+- UniRx	6.2.2
+- UniTask	2.3.2
+- DOTween (HOTween v2)	1.2.705
+- Mixed Reality Toolkit   2.8.2
+- Vuforia	10.13.3
+
+### 主要開発人数
+プランナー : 3人\
+プログラマー : 2人\
+計5人
+
+### 制作期間
+2022/10/05 ~ 2023/2/11
+
+---
+
 ## 実装箇所
 Hololens 2本体で使用するコード
 - 環境構築
