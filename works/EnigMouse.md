@@ -34,8 +34,7 @@ image2: /assets/src/EnigMouse/TitleLogo.png
 - 残り時間のUI
 - いくつかのマネージャークラスの作成\(InputManager ,EffectManager ,GameManager ,TitleManager )
 
-コードの確認はこちら\
-[https://github.com/to3oi/EnigMouse_Public/tree/main/Assets/Users/Tomoi](https://github.com/to3oi/EnigMouse_Public/tree/main/Assets/Users/Tomoi)
+[コードの確認はこちら](https://github.com/to3oi/EnigMouse_Public/tree/main/Assets/Users/Tomoi)
 
 ---
 
@@ -104,7 +103,6 @@ MasterPCではAzure Kinect DKの画像処理、ClientPCでは物体検出のみ�
 この構成にした理由は処理速度が足りなかったときに、あとからClientPCを追加接続すれば処理速度が上げられるように設計しました。\
 これによりMasterPC1台、ClientPC2台で実行して30FPSが安定して出るようになりました。
 
-以下はこの内容の詳細です。\
-[https://to3oi.hatenablog.com/entry/2023/09/19/151932](https://to3oi.hatenablog.com/entry/2023/09/19/151932)
+[技術詳細はここから確認できます。](https://to3oi.hatenablog.com/entry/2023/09/19/151932)
 
 ---
