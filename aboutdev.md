@@ -71,10 +71,15 @@ permalink: /other/
 
 # Works
 
-| | |
-| :-: | :-: |
-| ![EnigMouse](/assets/src/EnigMouse/TitleLogo.png) | 体感型パーティー ×<span> パズルゲーム<br>  Windows &<span> Azure Kinect DK<br>[詳細はこちら](/works/EnigMouse) |
-{: .Works-block}
+### EnigMouse 
+
+![EnigMouse](/assets/src/EnigMouse/TitleLogo.png) 
+
+体感型パーティー × パズルゲーム
+Windows & Azure Kinect DK
+
+[詳細はこちら](/works/EnigMouse)
+
 
 | 制作年度 | 制作期間 | タイトル名 | プラットフォーム |
 | :-: | :-: | :-: | :-: |
