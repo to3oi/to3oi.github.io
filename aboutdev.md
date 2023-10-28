@@ -94,7 +94,7 @@ permalink: /other/
 ---
 
 
-### HoloDive
+### 天上宮殿の騎士
 
 ![天上宮殿の騎士](/assets/src/knight-of-heavenly-palace/TitleLogo.png)
 {: .Works-img}
@@ -104,7 +104,7 @@ permalink: /other/
 ---
 
 
-### HoloDive
+### ギミックフィールド
 
 ![ギミックフィールド](/assets/src/gimmick-field/TitleLogo.png)
 {: .Works-img}
