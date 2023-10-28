@@ -12,6 +12,30 @@ image2: /assets/src/EnigMouse/TitleLogo.png
 
 ---
 
+## 概要
+
+### 使用言語
+C#
+
+### 主要ツール
+- Unity	2021.3.19f1
+- Rider	2022.2.4
+- Microsoft Visual Studio Community 2022    17.6.4
+- GitHub
+- UniRx	7.1.0
+- UniTask	2.3.2
+- MessagePack-CSharp	2.5.124
+
+### 開発人数
+5人
+プランナー : 2人
+プログラマー : 3人
+
+### 制作期間
+2023/04/21 ~
+
+---
+
 ## 担当&実装箇所
 ゲーム本編
 - 入力周りの処理
