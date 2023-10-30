@@ -1,0 +1,23 @@
+---
+layout: default
+title: about
+---
+
+<div class="teaserimage">
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
+        Teaser Image
+    </div>
+</div>
+
+
+<main class="content" role="main">
+
+  {% for page in site.pages %}
+    {% if page.tags contains 'about' %}
+      <div>
+        <p>{{ page.content | markdownify }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+
+</main>

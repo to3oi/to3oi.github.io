@@ -1,5 +1,50 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
-title: Portfolio
+encoding: UTF-8
+# Site settings
+title: "Portfolio"
+description: to3oi's Portfolio
+
+
+email: tomoya.ito.0517&copy;gmail.com
+#blog logo
+logo: "https://to3oi.github.io/assets/images/Home.svg"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "https://to3oi.github.io/assets/images/IMG_20180703_170206.jpg"
+
+name: 'to3oi'
+author: 'to3oi'
+author_image: "https://github.com/to3oi.png"
+
+paginate:	5
+
+url: "https://to3oi.github.io/" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@to3oi'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/to3oi
+    desc: Follow me on twitter
+    share_url: 
+    share_title: 
+    share_link: 
+
+  - icon:	github
+    url:	https://github.com/to3oi
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
