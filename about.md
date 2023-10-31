@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-tags: about
+tags: aboutmaster
 permalink: /other/
 ---
 
