@@ -26,6 +26,7 @@ C#
 - UniTask	2.3.2
 - MessagePack-CSharp	2.5.124
 - DOTween (HOTween v2)	1.2.745
+- Azure Kinect DK
 
 ### 主要開発人数
 プランナー : 2人\

@@ -76,7 +76,8 @@ permalink: /other/
 [![EnigMouse](/assets/src/EnigMouse/TitleLogo.png)](/works/EnigMouse)
 {: .Works-img}
 ジャンル : 体感型パーティー × パズルゲーム\
-プラットフォーム : Windows & Azure Kinect DK
+プラットフォーム : Windows & Azure Kinect DK\
+使用言語/ツール : Unity,C#,Azure Kinect DK,etc...
 
 [詳細はこちら](/works/EnigMouse)
 
@@ -87,7 +88,8 @@ permalink: /other/
 [![HoloDive](/assets/src/HoloDive/TitleLogo.png)](/works/HoloDive)
 {: .Works-img}
 ジャンル : 複合現実謎解きゲーム\
-プラットフォーム : Hololens 2
+プラットフォーム : Hololens 2\
+使用言語/ツール : Unity,C#,Hololens 2,etc...
 
 [詳細はこちら](/works/HoloDive)
 
@@ -99,7 +101,8 @@ permalink: /other/
 ![天上宮殿の騎士](/assets/src/knight-of-heavenly-palace/TitleLogo.png)
 {: .Works-img}
 ジャンル : 複合現実謎解きゲーム\
-プラットフォーム : Nintendo Switch 
+プラットフォーム : Nintendo Switch\
+使用言語/ツール : Unity,C#,Nintendo Switch,etc...
 
 ---
 
@@ -109,7 +112,8 @@ permalink: /other/
 ![ギミックフィールド](/assets/src/gimmick-field/TitleLogo.png)
 {: .Works-img}
 ジャンル : 複合現実謎解きゲーム\
-プラットフォーム : Nintendo Switch 
+プラットフォーム : Nintendo Switch\
+使用言語/ツール : Unity,C#,Nintendo Switch,etc...
 
 ---
 
