@@ -70,6 +70,10 @@ C#
 ---
 
 ## 実機動画
+ショート
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iTYOMVvR6Ag?si=pb3B8V_8BZR19ofL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ロング
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ppuf8xSg_0k?si=Om18CfMI2jsxZ_Wq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 実行デバイス : Windows & Azure Kinect DK
