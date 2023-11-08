@@ -71,7 +71,7 @@ C#
 
 ## 実機動画
 ショート
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iTYOMVvR6Ag?si=pb3B8V_8BZR19ofL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEqBftI_9lw?si=Y4xUUlEHHZ5W-Ndz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
