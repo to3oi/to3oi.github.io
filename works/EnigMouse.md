@@ -69,7 +69,14 @@ C#
 
 ---
 
+## 動画
+PV
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVm_BYSfU6k?si=Sh4VQLLCTEHXl2eO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
 ## 実機動画
+
 ショート
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PEqBftI_9lw?si=Y4xUUlEHHZ5W-Ndz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
