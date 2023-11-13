@@ -165,6 +165,14 @@ MasterPCではAzure Kinect DKの画像処理、ClientPCでは物体検出のみ�
 
 ---
 
+#### ステージ変更用のEditor拡張
+プランナーでも直感的にすぐステージを試せるようにステージ変更用のエディターウィンドウを追加しました。\
+マップを複数追加する、削除する、何もないマスで初期化するなどといった動作ができます。\
+以下のGIFではネズミの出現するマスを変更しています。\
+![EditorWindow_StageMap](../assets/src/EnigMouse/EditorWindow_StageMap.gif)
+
+---
+
 ### GitHubリポジトリ
 ゲーム本編\
 [![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)](https://github.com/to3oi/EnigMouse_Public)
