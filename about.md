@@ -100,7 +100,7 @@ permalink: /other/
 
 [![天上宮殿の騎士](/assets/src/knight-of-heavenly-palace/TitleLogo.png)](/works/knight-of-heavenly-palace)
 {: .Works-img}
-ジャンル : 複合現実謎解きゲーム\
+ジャンル : 3Dアクション\
 プラットフォーム : Nintendo Switch\
 使用言語/ツール : Unity,C#,Nintendo Switch,etc...
 
@@ -113,7 +113,7 @@ permalink: /other/
 
 ![ギミックフィールド](/assets/src/gimmick-field/TitleLogo.png)
 {: .Works-img}
-ジャンル : 複合現実謎解きゲーム\
+ジャンル : 3Dアクション\
 プラットフォーム : Nintendo Switch\
 使用言語/ツール : Unity,C#,Nintendo Switch,etc...
 
