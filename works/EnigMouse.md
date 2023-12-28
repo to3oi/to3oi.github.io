@@ -85,6 +85,11 @@ PV
 ロング
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ppuf8xSg_0k?si=Om18CfMI2jsxZ_Wq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
+最新版の変更点
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQPEany49ZA?si=VGayt6KDL2NdaCC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 実行デバイス : Windows & Azure Kinect DK
 
 ---
@@ -168,9 +173,18 @@ MasterPCではAzure Kinect DKの画像処理、ClientPCでは物体検出のみ�
 #### ステージ変更用のEditor拡張
 プランナーでも直感的にすぐステージを試せるようにステージ変更用のエディターウィンドウを追加しました。\
 マップを複数追加する、削除する、何もないマスで初期化するなどといった動作ができます。\
-以下のGIFではネズミの出現するマスを変更しています。\
+以下のGIFではネズミの出現するマスを変更しています。
+
 ![EditorWindow_StageMap](../assets/src/EnigMouse/EditorWindow_StageMap.gif)
 
+---
+
+#### ステージ選択の演出
+
+ステージ選択画面を実装する際にプログラマー側から演出の提案をさせていただきました。\
+選択したステージ以外のアイコンが燃える演出をシェーダーグラフを使用して制作しました。
+
+![StageSelectionProduction](../assets/src/EnigMouse/StageSelectionProduction.gif)
 ---
 
 ### GitHubリポジトリ
