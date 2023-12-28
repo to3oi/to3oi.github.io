@@ -69,6 +69,16 @@ C#
 
 ---
 
+## 展示風景
+
+![](../assets/src/EnigMouse/IMG_20231110_183021.JPG)\
+プレイ会場\
+![](../assets/src/EnigMouse/IMG_8168.jpg)\
+プレイイメージ\
+![](../assets/src/EnigMouse/IMG_20231110_122105.JPG)\
+4台のパソコンを通信させ実行している
+
+---
 ## 動画
 PV
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVm_BYSfU6k?si=Sh4VQLLCTEHXl2eO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

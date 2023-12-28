@@ -44,7 +44,14 @@ social:
 
   - icon:	github
     url:	https://github.com/to3oi
-    desc:	Fork me on github
+    desc:	Follow me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	mail-reply-all
+    url:	mailto:tomoya.ito.0517@gmail.com
+    desc:	
     share_url:
     share_title:
     share_link:
