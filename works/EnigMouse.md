@@ -101,6 +101,15 @@ PV
 
 ---
 
+EnigMouse Send Master/Client 実行映像
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZKvs_O25Rc?si=Zi0u5GOZ5f5UEW21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+実行デバイス : Windows & Azure Kinect DK
+
+---
+
+---
+
 ## ストーリー
 ある日師匠の書斎に呼ばれた。\
 行ってみると師匠である魔女が魔法の実力を試すため課題を用意していた。\
