@@ -89,7 +89,9 @@ Hololens 2本体で使用するコード
 
 ### 時間軸移動時のエフェクト
 以下の動画のように時間軸を移動したときに、手の座標を中心に波紋のようなエフェクトを実装し、時間軸を移動したことをプレイヤーがわかるようにしました。\
-これはShaderGraphで実装し、Hololens 2の実機で処理落ちが少なくなるよう軽量化をしました。
+初期のものはビルドして実行するとFPSが5程度しか出ず実用的ではありませんでした。
+しかし調べてみるとFragment Shaderの値が大きいことが原因ということがわかりこの値を減らせるよう負荷の重いSample Noiseをより軽量なGradient Noiseへ置き換え、Hololens 2上では影響の少ないAlphaの処理をなくすことで最大30FPSを出せるよう修正できました。
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smT1GH2vxLM?si=HGrpoBMENT7A1oYb&amp;start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
