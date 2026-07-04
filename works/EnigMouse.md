@@ -59,8 +59,8 @@ C#
 - PC複数台の並列稼働 ( グリッドコンピューティング )
 
 コードの確認はこちら\
-[![EnigMouseSendMaster](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendMaster)](https://github.com/to3oi/EnigMouseSendMaster)\
-[![EnigMouseSendClient](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendClient)](https://github.com/to3oi/EnigMouseSendClient)
+[![EnigMouseSendMaster](https://github-stats-extended.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendMaster)](https://github.com/to3oi/EnigMouseSendMaster)\
+[![EnigMouseSendClient](https://github-stats-extended.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendClient)](https://github.com/to3oi/EnigMouseSendClient)
 
 ---
 
@@ -231,10 +231,10 @@ Azure Kinect DKにはDepthカメラ（Time of Flightカメラ）とIR Emitter（
 
 ### GitHubリポジトリ
 ゲーム本編\
-[![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)](https://github.com/to3oi/EnigMouse_Public)
+[![EnigMouse](https://github-stats-extended.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)](https://github.com/to3oi/EnigMouse_Public)
 
 入力装置\
-[![EnigMouseSendMaster](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendMaster)](https://github.com/to3oi/EnigMouseSendMaster)\
-[![EnigMouseSendClient](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendClient)](https://github.com/to3oi/EnigMouseSendClient)
+[![EnigMouseSendMaster](https://github-stats-extended.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendMaster)](https://github.com/to3oi/EnigMouseSendMaster)\
+[![EnigMouseSendClient](https://github-stats-extended.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendClient)](https://github.com/to3oi/EnigMouseSendClient)
 
 ---
