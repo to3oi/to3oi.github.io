@@ -73,7 +73,8 @@ Stateの割り込み機能を追加してプレイヤーを見失ったときな
 ---
 
 ### GitHubリポジトリ
-[knight-of-heavenly-palace-public](https://github.com/letconst/knight-of-heavenly-palace-public)\
+[![knight-of-heavenly-palace-public](https://github-stats-extended.vercel.app/api/pin/?username=letconst&repo=knight-of-heavenly-palace-public)](https://github.com/letconst/knight-of-heavenly-palace-public)
+
 実行にはNintendo SDKが必要です。
 
 ---
