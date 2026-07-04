@@ -22,7 +22,7 @@ image2: /assets/src/gimmick-field/TitleLogo.png
 ---
 
 ### GitHubリポジトリ
-[gimmick-field-public](https://github.com/letconst/gimmick-field-public)
+[![gimmick-field-public](https://github-stats-extended.vercel.app/api/pin/?username=letconst&repo=gimmick-field-public)](https://github.com/letconst/gimmick-field-public)
 
 ---
 
