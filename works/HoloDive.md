@@ -103,6 +103,6 @@ Hololens 2本体で使用するコード
 ### GitHubリポジトリ
 [HoloDive-Hololens-Repository-Public](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
 
-[![HoloDive](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=HoloDive-Hololens-Repository-Public)](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
+[![HoloDive](https://github-stats-extended.vercel.app/api/pin/?username=to3oi&repo=HoloDive-Hololens-Repository-Public)](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
 
 ---
